@@ -1,9 +1,22 @@
-## Hi there, I'm Trobo.
+# Hi, I'm Trobo 👋
 
-**I like programming a lot of different things like Discord bots, websites and tools in my free time**.
-Currently working on projects for Ultramarine Linux and Lpadder.
+I am a developer from the south of Germany, with main interests in front-end web development, desktop applications and automation.
 
-If you have any questions or want to work with me feel free to message me on Discord:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/540898474288480256?bg=00000000)](https://discord.com/users/540898474288480256)
+## 💻 Languages I work with:
+- HTML, CSS and JavaScript/TypeScript for front-end web development
+- Python for Discord bots and automation scripts
+- C# for experiments and Windows desktop apps
+
+## 🔭 Currently working on:
+- Ultramarine Linux (Website, Wiki, Welcome App)
+- Lpadder (Launchpad X testing, implementation of a Tic Tac Toe game, documentation)
+- Kanri (Tauri rewrite of Kanban Electron, will be open sourced as soon as basic functionality is ready)
+
+## GitHub stats:
 
 ![Trobos's GitHub stats](https://github-readme-stats.vercel.app/api?username=trobonox&count_private=true&show_icons=true&theme=tokyonight)
+
+
+## Contact me:
+If you have any questions or want to work with me feel free to message me on Discord:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/540898474288480256?bg=00000000)](https://discord.com/users/540898474288480256)
