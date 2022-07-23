@@ -9,7 +9,7 @@ I am a developer from the south of Germany, with main interests in front-end web
 
 ## 🔭 Currently working on:
 - Ultramarine Linux (Website, Wiki, Welcome App)
-- Lpadder (Launchpad X testing, implementation of a Tic Tac Toe game, documentation)
+- Lpadder (Launchpad X testing, documentation)
 - Kanri (Tauri rewrite of Kanban Electron, will be open sourced as soon as basic functionality is ready)
 
 ## GitHub stats:
