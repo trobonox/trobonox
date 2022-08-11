@@ -8,9 +8,10 @@ I am a developer from the south of Germany, with main interests in front-end web
 - C# for experiments and Windows desktop apps
 
 ## 🔭 Currently working on:
-- Ultramarine Linux (Website, Wiki, Welcome App)
-- Lpadder (Launchpad X testing, documentation)
 - Kanri (Tauri rewrite of Kanban Electron, will be open sourced as soon as basic functionality is ready)
+- Preparing for the LPI Linux Essentials Certification
+- Preparing for the Supabase Launch Week 5 Hackathon in a team of 3 people
+(on hold: Ultramarine Linux, lpadder)
 
 ## GitHub stats:
 
