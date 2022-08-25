@@ -20,5 +20,4 @@ I am a developer from the south of Germany, with main interests in front-end web
 
 
 ## Contact me:
-If you have any questions or want to work with me feel free to message me on Discord:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/540898474288480256?bg=00000000)](https://discord.com/users/540898474288480256)
+If you have any questions or want to work with me feel free to message me on Discord: **Trobonox#2680**
