@@ -10,7 +10,6 @@ I am a developer from the south of Germany, with main interests in front-end web
 ## 🔭 Currently working on:
 - Kanri (Tauri rewrite of Kanban Electron, will be open sourced as soon as basic functionality is ready)
 - Preparing for the LPI Linux Essentials Certification
-- Working on a game for the Supabase Launch Week 5 Hackathon in a team of 3 people
 
 (on hold: Ultramarine Linux, lpadder)
 
