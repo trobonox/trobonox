@@ -8,7 +8,7 @@ I am a developer from the south of Germany, with main interests in front-end web
 - C# for experiments and Windows desktop apps
 
 ## 🔭 Currently working on:
-- Kanri (Tauri rewrite of Kanban Electron, will be open sourced as soon as basic functionality is ready)
+- Kanri (Tauri rewrite of Kanban Electron)
 - Preparing for the LPI Linux Essentials Certification
 
 (on hold: Ultramarine Linux, lpadder)
