@@ -6,6 +6,7 @@ I am a developer from the south of Germany, with main interests in front-end web
 - HTML, CSS and JavaScript/TypeScript for front-end web development
 - Python for Discord bots and automation scripts
 - C# for experiments and Windows desktop apps
+- Java for projects at school and Minecraft mods
 
 ## 🔭 Currently working on:
 - Kanri (Tauri rewrite of Kanban Electron)
