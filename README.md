@@ -12,7 +12,6 @@ I am a developer from the south of Germany, with main interests in front-end web
 - Kanri (Tauri rewrite of Kanban Electron)
 - Ultramarine Linux (Welcome App made with Tauri)
 - Preparing for the LPI Linux Essentials Certification
-- Making a new personal website using Next.js, Framer Motion and Three.js
 
 
 ## GitHub stats:
