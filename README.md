@@ -20,4 +20,5 @@ I am a developer from the south of Germany, with main interests in front-end web
 
 
 ## Contact me:
-If you have any questions or want to work with me feel free to message me on Discord: **Trobonox#2680**
+If you have any questions or want to work with me feel free to write an email at: **hello@trobo.tech**
+Alternatively, you can message me on Discord: **Trobonox#2680**
