@@ -10,9 +10,7 @@ I am a developer from the south of Germany, with main interests in front-end web
 
 ## 🔭 Currently working on:
 - Kanri (Tauri rewrite of Kanban Electron)
-- Ultramarine Linux (Welcome App made with Tauri)
-- Preparing for the LPI Linux Essentials Certification
-
+- Ultramarine Linux (Web development with Astro)
 
 ## GitHub stats:
 
