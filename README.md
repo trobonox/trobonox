@@ -12,6 +12,7 @@ I am a developer from the south of Germany, with main interests in front-end web
 - Kanri (Tauri rewrite of Kanban Electron)
 - Ultramarine Linux (Web development with Astro)
 - Design for the landing page of Kanri
+- Contributing the implementation of a Kanban board to another OSS project
 
 ## Contact me:
 If you have any questions or want to work with me feel free to write an email at: **hello@trobo.tech**.
