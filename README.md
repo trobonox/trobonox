@@ -1,5 +1,10 @@
 ![github_banner](https://user-images.githubusercontent.com/57040351/230038488-f7982ef2-0d91-41cf-bc07-613b314ca4be.png)
 
+<p align="center">
+  <a href="https://trobo.tech"> Website </a> &nbsp;
+  <a href="https://twitter.com/trobo_tech"> Twitter </a> &nbsp;
+  <a href="mailto:hello@trobo.tech"> Email </a>
+</p>
 
 ## 💻 Languages I work with:
 - HTML, CSS and JavaScript/TypeScript for front-end web development
