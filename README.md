@@ -1,6 +1,5 @@
-# Hi, I'm Trobo 👋
+![github_banner](https://user-images.githubusercontent.com/57040351/230038488-f7982ef2-0d91-41cf-bc07-613b314ca4be.png)
 
-I am a developer from the south of Germany, with main interests in front-end web development, desktop applications and automation.
 
 ## 💻 Languages I work with:
 - HTML, CSS and JavaScript/TypeScript for front-end web development
