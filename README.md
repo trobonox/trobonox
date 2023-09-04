@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://trobo.tech"> Website </a> &nbsp;
-  <a href="https://twitter.com/trobo_tech"> Twitter </a> &nbsp;
   <a href="mailto:hello@trobo.tech"> Email </a>
 </p>
 
