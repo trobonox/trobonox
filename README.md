@@ -15,6 +15,7 @@
 - Kanri (Offline Kanban board app made using Tauri and Nuxt)
 - Projects and management at catto labs (developer trio)
 - Exploring options for a Kanri cloud sync backend
+- Redesign of the Ultramarine Linux website
 
 ## Contact me:
 If you have any questions or want to work with me feel free to write an email at: **hello@trobo.tech**.
