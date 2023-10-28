@@ -16,6 +16,7 @@
 - Projects and management at catto labs (developer trio)
 - Exploring options for a Kanri cloud sync backend
 - Redesign of the Ultramarine Linux website
+- Working on a redesign of my personal website
 
 ## Contact me:
 If you have any questions or want to work with me feel free to write an email at: **hello@trobo.tech**.
