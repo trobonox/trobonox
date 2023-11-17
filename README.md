@@ -1,4 +1,4 @@
-![profile_banner](https://github.com/trobonox/trobonox/assets/57040351/52288fb8-a254-468b-bcfa-7204b08caffc)
+![banner_readme](https://github.com/trobonox/trobonox/assets/57040351/5de85f62-daed-423f-821a-4de212c8b68c)
 
 <p align="center">
   <a href="https://trobo.tech">🌎 Website</a> &nbsp;
