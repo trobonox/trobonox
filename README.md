@@ -1,8 +1,8 @@
 ![banner_readme](https://github.com/trobonox/trobonox/assets/57040351/5de85f62-daed-423f-821a-4de212c8b68c)
 
 <p align="center">
-  <a href="https://trobo.tech">🌎 Website</a> &nbsp;
-  <a href="mailto:hello@trobo.tech">📧 Email </a>
+  <a href="https://trobo.dev">🌎 Website</a> &nbsp;
+  <a href="mailto:hello@trobo.dev">📧 Email </a>
 </p>
 
 ## 💻 Languages I work with:
