@@ -14,8 +14,7 @@
 ## 🔭 Currently working on:
 - Kanri (Offline Kanban board app made using Tauri and Nuxt)
 - Projects and management at catto labs (developer trio)
-- Working on a redesign of my personal website
-- Productivity mobile app using Expo and React Native
+- Looking for new opportunities (if you have an exciting project idea, internship or anything else, please contact me!)
 
 ## Contact me:
 If you have any questions or want to work with me feel free to write an email at: **hello@trobo.dev**.
