@@ -13,6 +13,7 @@
 
 ## 🔭 Currently working on:
 - Kanri (Offline Kanban board app made using Tauri and Nuxt)
+- Ultramarine Linux website redesign
 - Projects and management at catto labs (developer trio)
 - Looking for new opportunities (if you have an exciting project idea, internship or anything else, please contact me!)
 
