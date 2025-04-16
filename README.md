@@ -20,5 +20,3 @@
 ## Contact me:
 If you have any questions or want to work with me feel free to write an email at: **hello@trobo.dev**.
 
-Alternatively, you can message me on Discord: **trobo.tech**
-
