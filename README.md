@@ -1,7 +1,7 @@
 ![banner_readme](https://github.com/trobonox/trobonox/assets/57040351/5de85f62-daed-423f-821a-4de212c8b68c)
 
 <p align="center">
-  <a href="mailto:hello@trobo.dev">📧 Email </a>
+  <a href="mailto:hello@trobo.dev">📧 Email</a>
 </p>
 
 ## 💻 Languages I work with:
@@ -16,6 +16,4 @@
 - Projects and management at catto labs (developer trio)
 - Looking for new opportunities (if you have an exciting project idea, internship or anything else, please contact me!)
 
-## Contact me:
-If you have any questions or want to work with me feel free to write an email at: **hello@trobo.dev**.
 
